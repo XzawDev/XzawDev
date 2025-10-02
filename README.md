@@ -1,4 +1,4 @@
-<h1 align="left"><img src="assets/wave.gif" width="30" height="30"/> Hi, I'm Xzaw</h1>
+<h1 align="left"><img src="assets/wave.gif" width="30"/> Hi, I'm Xzaw</h1>
 
 ###
 

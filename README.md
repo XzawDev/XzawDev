@@ -1,8 +1,6 @@
-<h1 align="left"><img src="assets/wave.gif" width="50"/> Hi, I'm Xzaw</h1>
+<h1 align="left">👋 Hi, I'm Xzaw</h1>
 
 ###
-
-<br clear="both">
 
 <p align="left">🌱 Saat ini saya adalah seorang pelajar SMK yang sedang fokus belajar Web Development dan Database.<br>💻 Saya tertarik dengan dunia pemrograman, terutama di bidang pengembangan website.<br>🔍 Saya suka bereksperimen dengan membuat project kecil untuk mengasah kemampuan coding saya.<br>📚 Saat ini sedang mendalami: HTML, CSS, JavaScript, PHP, Next.js, Firebase.<br>⚡ Fun fact: saya senang mencoba ide-ide baru, untuk dijadikan sebuah project nyata.</p>
 
@@ -124,6 +122,14 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=XzawDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<h2 align="left">🐍 Snake Contribution</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/XzawDev/XzawDev/output/snake.svg" alt="Snake animation" />
 
 ###
 

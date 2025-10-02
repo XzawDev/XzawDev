@@ -1,5 +1,4 @@
-<h1 align="left">👋 Hi, I'm Xzaw</h1>
-
+<h1 align="left"><img src="assets/hi.gif" width="50" /> Hi, I'm Xzaw</h1>
 ###
 
 <br clear="both">

@@ -42,18 +42,6 @@
 
 ###
 
-<h3 align="left">CSS Framework/Library</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-</div>
-
-###
-
 <h3 align="left">Design/Visual Tools</h3>
 
 ###

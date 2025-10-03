@@ -7,7 +7,7 @@
 🔍 I love experimenting with small projects to sharpen my coding skills.<br>  
 📚 I’m currently learning Japanese and Next.js. <br>  
 ⚡ Fun fact: I enjoy turning new ideas into real projects. <br>  
-🎯 Goal: To live in Japan and enjoy a simple.  
+🎯 Goal: To live in Japan and enjoy a simple life.  
 </p>
 
 ###

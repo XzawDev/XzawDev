@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">🌱 Saat ini saya adalah seorang pelajar SMK yang sedang fokus belajar Web Development dan Database.<br>💻 Saya tertarik dengan dunia pemrograman, terutama di bidang pengembangan website.<br>🔍 Saya suka bereksperimen dengan membuat project kecil untuk mengasah kemampuan coding saya.<br>📚 Saat ini sedang mendalami: HTML, CSS, JavaScript, PHP, Next.js, Firebase.<br>⚡ Fun fact: saya senang mencoba ide-ide baru, untuk dijadikan sebuah project nyata.</p>
+<p> 🌱 I am a vocational high school student currently focusing on learning Web Development and Database.<br>  
+💻 I’m interested in programming, especially in website development.<br>  
+🔍 I love experimenting with small projects to sharpen my coding skills.<br>  
+📚 I’m currently learning Japanese and Next.js. <br>  
+⚡ Fun fact: I enjoy turning new ideas into real projects. <br>  
+🎯 Goal: To live in Japan and enjoy a simple.  
+</p>
 
 ###
 

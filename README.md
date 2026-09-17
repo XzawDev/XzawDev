@@ -83,7 +83,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- <h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
@@ -97,7 +97,7 @@
 
 <div align="left"> <img src="https://github-profile-trophy.vercel.app?username=XzawDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </div>
 
-###
+### -->
 
 <h2 align="left">🐍 Snake Contribution</h2>
 

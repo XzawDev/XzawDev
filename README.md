@@ -1,14 +1,15 @@
-<h1 align="left">👋 Hi, I'm Xzaw</h1>
+<h1 align="left">👋 Hi, I'm Fienoza</h1>
 
 ###
 
-<p> 🌱 I am a vocational high school student currently focusing on learning Web Development and Database.<br>  
-💻 I’m interested in programming, especially in website development.<br>  
-🔍 I love experimenting with small projects to sharpen my coding skills.<br>  
-📚 I’m currently learning Japanese and Next.js. <br>  
-⚡ Fun fact: I enjoy turning new ideas into real projects. <br>  
-🎯 Goal: To live in Japan and enjoy a simple life.  
-</p>
+<p align="left"> 
+🎓 I'm a first-year Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.<br> 
+💻 I'm mainly interested in Web Development and building useful digital experiences.<br>
+🚀 I enjoy creating projects from scratch and experimenting with new technologies.<br> 
+🔍 I'm currently exploring Web Development, and AI.<br>
+📚 I'm currently learning Next.js, TypeScript, and improving my programming fundamentals.<br>
+⚡ Fun fact: I enjoy turning ideas into real projects and learning through experimentation.<br>
+🎯 Goal: To keep growing as a developer and someday live a simple life in Japan. </p>
 
 ###
 
@@ -86,10 +87,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XzawDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XzawDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=XzawDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XzawDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
 
 ###
 
@@ -97,9 +95,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=XzawDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<div align="left"> <img src="https://github-profile-trophy.vercel.app?username=XzawDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </div>
 
 ###
 
